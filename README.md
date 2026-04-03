@@ -3,11 +3,11 @@
 
 <p>C++23 library and command-line toolset for converting images to the modern AVIF format. </p>
 
-[Report Issue](https://github.com/Zheng-Bote/Img2Avify/issues) · [Request Feature](https://github.com/Zheng-Bote/Img2Avif/pulls)
+[Report Issue](https://github.com/Zheng-Bote/img2avif/issues) · [Request Feature](https://github.com/Zheng-Bote/img2avif/pulls)
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey.svg)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zheng-Bote/Img2Avif?logo=GitHub)](https://github.com/Zheng-Bote/Img2Avif/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zheng-Bote/img2avif?logo=GitHub)](https://github.com/Zheng-Bote/img2avif/releases)
 
 </div>
 
@@ -15,6 +15,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**
 
 - [Description](#description)
@@ -34,6 +35,8 @@
   - [Code Contributors](#code-contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
 
 # Description
 
@@ -170,7 +173,7 @@ For a detailed history of changes, see the [CHANGELOG.md](CHANGELOG.md).
 
 ## Code Contributors
 
-![Contributors](https://img.shields.io/github/contributors/Zheng-Bote/Img2Avif?color=dark-green)
+![Contributors](https://img.shields.io/github/contributors/Zheng-Bote/img2avif?color=dark-green)
 
 ---
 
