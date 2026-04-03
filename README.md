@@ -3,11 +3,11 @@
 
 <p>C++23 library and command-line toolset for converting images to the modern AVIF format. </p>
 
-[Report Issue](https://github.com/Zheng-Bote/img2icony/issues) · [Request Feature](https://github.com/Zheng-Bote/img2icon/pulls)
+[Report Issue](https://github.com/Zheng-Bote/Img2Avify/issues) · [Request Feature](https://github.com/Zheng-Bote/Img2Avif/pulls)
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey.svg)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zheng-Bote/img2icon?logo=GitHub)](https://github.com/Zheng-Bote/img2icon/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zheng-Bote/Img2Avif?logo=GitHub)](https://github.com/Zheng-Bote/Img2Avif/releases)
 
 </div>
 
@@ -18,9 +18,23 @@
 
 **Table of Contents**
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+- [Description](#description)
+  - [Features](#features)
+  - [Dependencies](#dependencies)
+  - [Build Instructions](#build-instructions)
+  - [Integration](#integration)
+    - [Using FetchContent (CMake 3.11+)](#using-fetchcontent-cmake-311)
+    - [Using find_package](#using-find_package)
+  - [Example Usage](#example-usage)
+    - [1:1 Conversion (`img2avif`)](#11-conversion-img2avif)
+    - [Multi-Size Responsive Generation (`img2avifs`)](#multi-size-responsive-generation-img2avifs)
+    - [Using the C++ Library](#using-the-c-library)
+  - [📜 License](#-license)
+  - [📄 Changelog](#-changelog)
+  - [Author](#author)
+  - [Code Contributors](#code-contributors)
 
----
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Description
 
@@ -157,7 +171,7 @@ For a detailed history of changes, see the [CHANGELOG.md](CHANGELOG.md).
 
 ## Code Contributors
 
-![Contributors](https://img.shields.io/github/contributors/Zheng-Bote/depdiscover?color=dark-green)
+![Contributors](https://img.shields.io/github/contributors/Zheng-Bote/Img2Avif?color=dark-green)
 
 ---
 
